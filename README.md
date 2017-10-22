@@ -7,12 +7,12 @@ Case Studies from Mode Analytics using SQL
  
  1)Holiday Season leading to absence of Employees.
    
-   This particular assumption can be persued since any particular region of world having major festive or holidays season which might have brought down the number of users.The Behavioral pattern across all the regions is common which rules out the reason for having holiday season in one particular region.
+   This particular assumption can be persued since any particular region of the world could be having major festive or holidays season   which might have brought down the number of users.The Behavioral pattern across all the regions is common after disgnosing which rules out the reason for having holiday season in one particular region.
    https://modeanalytics.com/breddy56/reports/fe8ce94af380
   
  2)Low Productivity of the Server and lack of support from Yammer causing failure of application.
-   
-   There is lack of information to diagnose the reason for productivity which can be further investigated by looking at the logs reports
+  
+  There is lack of information to diagnose the reason for lack of productivity which can be further investigated by looking at the logs reports
    
  3)Traffic Shutdown or Maintenance isssues in companies to cut down the cost.
    
@@ -25,5 +25,6 @@ Case Studies from Mode Analytics using SQL
   
   
   5)Retention of Existing Users and Enrollment of New Users.
-    The growth of any appliction can attributed to the number of users signing up every week and the usage is proportional to the total number of users logging every week.Below url shows that the number of users have dropped in the week of Aug 04 which could have contibuted signnificantly to the drop in Engagement.
+    
+    The growth of any appliction can be attributed to the number of users signing up every week and the usage is proportional to the total number of users logging every week.Below url shows that the number of users have dropped in the week of Aug 04 which could have contibuted signnificantly to the drop in Engagement.
     https://modeanalytics.com/breddy56/reports/5e5eb862a6c7
