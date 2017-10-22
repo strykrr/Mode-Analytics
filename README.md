@@ -18,4 +18,4 @@ Case Studies from Mode Analytics using SQL
    https://modeanalytics.com/breddy56/reports/3abfce3827e3
   
   5)Retention of Existing Users and Enrollment of New Users.
-    
+    https://modeanalytics.com/breddy56/reports/5e5eb862a6c7
