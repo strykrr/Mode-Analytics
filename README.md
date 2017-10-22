@@ -24,6 +24,5 @@ Case Studies from Mode Analytics using SQL
    https://modeanalytics.com/breddy56/reports/3abfce3827e3
  
   5)Retention of Existing Users and Enrollment of New Users.
-  
-    The growth of any appliction can be attributed to the number of users signing up every week and the usage is proportional to the         total number of users logging every week.Below url shows that the number of users have dropped in the week of Aug 04 which could         have contibuted significantly to the drop in Engagement.
+   The growth of any appliction can be attributed to the number of users signing up every week and the usage is proportional to the         total number of users logging every week.Below url shows that the number of users have dropped in the week of Aug 04 which could         have contibuted significantly to the drop in Engagement.
     https://modeanalytics.com/breddy56/reports/5e5eb862a6c7
